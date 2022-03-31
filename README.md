@@ -43,7 +43,7 @@ Files consist a whole game's logic. I've based on OOP paradigm. Here each file c
 
 **Gui.py** - here is whole GUI logic with serve of **pygame** library. It also allow humans to play in the game. GUI is totally independent from a game logic. It communicates with backend game_process via queue.
 
-####...
+#### ...
 
 There are also some files in a root directory of the project:
 
