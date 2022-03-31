@@ -1,0 +1,26 @@
+{
+  "gui_title": "Achtung die Kurve (AI Edition)",
+  "gui_width": 800,
+  "gui_height": 600,
+
+  "ticks_per_sec": 30,
+
+  "board_height": 500,
+  "board_width": 500,
+
+  "initial_player_speed": 4.0,
+  "player_turn_speed": 8.0,
+  "marker_size": 5.0,
+
+  "player_map_min_init_gap": 50,
+  "players_min_init_gap": 80,
+
+  "bonus_map_min_init_gap": 40,
+  "bonus_size": 20,
+
+  "random_no_clip_active" : true,
+  "player_no_clip_min_gap": 5,
+  "player_no_clip_max_gap": 12,
+  "player_no_clip_min_tick_random": 60,
+  "player_no_clip_max_tick_random": 420
+}
